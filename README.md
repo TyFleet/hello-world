@@ -1,2 +1,2 @@
 # hello-world
-Need a refresh!
+Coding is fun!
